@@ -1,5 +1,10 @@
 # Eclipse Java Projects
 
+
+
+
+
+
 This repository contains various Java projects organized by different topics and concepts. Each folder represents a specific project or a set of related projects.
 
 ## Project Structure
